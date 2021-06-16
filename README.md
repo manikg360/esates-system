@@ -12,4 +12,5 @@ STEPS TO DO -
 1. Clone this code using git command - https://github.com/manikg360/esates-system.git
 2. Set your mysql credentials as per your credential in following file - /common/config/main.php
 3. Migrate Database tables using command - <b>php yii migrate</b>
-4. To open project go to following URL - http://{ProjectNAME}/advanced/frontend/web/
+4. Give writable permission to created folder using sudo chmod -R 777 FOLDERNAME
+5. To open project go to following URL - http://{ProjectNAME}/advanced/frontend/web/
